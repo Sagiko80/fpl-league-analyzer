@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# FPL Data files (auto-generated)
+fpl_data/
+!fpl_data/.gitkeep
+
+# Reports (can be regenerated)
+# Uncomment if you want to track reports
+# fpl_data/reports/
+
+# Local configuration
+.env
+*.local
+
+# OS files
+Thumbs.db
+.DS_Store
